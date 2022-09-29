@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/responsive-stats-preview-card-component-using-flexboxcss-grid-4RlSmeunt_)
+- Live Site URL: [live site URL](https://cooger17.github.io/stats-preview-card-component-main/)
 
 ## My process
 
